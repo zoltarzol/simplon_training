@@ -1,1 +1,3 @@
-# Repo d'introduction à github pour apprentissage du python
+# First Things First
+
+Repo d'introduction à github pour apprentissage du python

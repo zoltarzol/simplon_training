@@ -1,1 +1,1 @@
-# simplon_training
+# Repo d'introduction à github pour apprentissage du python
